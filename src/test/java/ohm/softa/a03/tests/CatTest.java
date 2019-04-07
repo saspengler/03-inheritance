@@ -24,7 +24,7 @@ public class CatTest {
 
 	@BeforeEach
 	void setUp() {
-		animal = new Cat("Horst", Sleep, Awake, Digest);
+		animal = new Cat("Olaf", Sleep, Awake, Digest);
 	}
 
 	@Test
